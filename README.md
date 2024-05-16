@@ -953,6 +953,6 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT:
-
+![out](scientific_calculator.gif)
 ## Result:
 Thus a Simple Android Application for scientific claculator using Android Studio was developed and executed successfully.
