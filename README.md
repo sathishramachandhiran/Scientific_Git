@@ -953,6 +953,8 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT:
-![out](scientific_calculator.gif)
+![Screenshot 2024-05-16 140756](https://github.com/sathishramachandhiran/Scientific_Git/assets/120574768/c43c8b2c-83b9-4a61-ac04-eafebf3b8e64)
+![Screenshot 2024-05-16 140829](https://github.com/sathishramachandhiran/Scientific_Git/assets/120574768/4c847cdd-15d1-4ccb-9cda-aba7384e8bfe)
+
 ## Result:
 Thus a Simple Android Application for scientific claculator using Android Studio was developed and executed successfully.
